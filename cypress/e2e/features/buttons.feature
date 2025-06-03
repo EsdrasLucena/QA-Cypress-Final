@@ -16,7 +16,7 @@ Cenário: Validação do duplo clique
 
 Cenário: Validação do clique com botão direito
     Quando eu realizo um clique com o botão direito no botão correspondente
-    Então o sistema deverá exibir a mensagem de sucesso do clique com botão 
+    Então o sistema deverá exibir a mensagem de sucesso do clique com botão direito
 
 Esquema do Cenário: Validação de múltiplos cliques
     Quando eu realizo o tipo de clique <tipo>
